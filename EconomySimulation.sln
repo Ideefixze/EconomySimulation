@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EconomySimulation", "EconomySimulation.csproj", "{29FBCFBA-10DE-48B6-8318-CE47388F7278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EconomySimulation_Run", "..\EconomySimulation_Run\EconomySimulation_Run.csproj", "{05B29126-B840-46B2-9A7D-8DD8EE5E1ECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29FBCFBA-10DE-48B6-8318-CE47388F7278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29FBCFBA-10DE-48B6-8318-CE47388F7278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29FBCFBA-10DE-48B6-8318-CE47388F7278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29FBCFBA-10DE-48B6-8318-CE47388F7278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05B29126-B840-46B2-9A7D-8DD8EE5E1ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B29126-B840-46B2-9A7D-8DD8EE5E1ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B29126-B840-46B2-9A7D-8DD8EE5E1ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B29126-B840-46B2-9A7D-8DD8EE5E1ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAD1E45D-5372-4D78-AAE6-F6EE34EA3AE0}
+	EndGlobalSection
+EndGlobal
